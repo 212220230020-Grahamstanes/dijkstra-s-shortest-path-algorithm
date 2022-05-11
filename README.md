@@ -236,33 +236,23 @@ print("Total Distance={0} Kilometers".format(goal_state_path_4.path_cost))
 ## OUTPUT:
 
 ![1](https://user-images.githubusercontent.com/75235150/167853839-6343a281-3ef7-4114-914b-cb8951b0f164.jpg)
-
 ![2](https://user-images.githubusercontent.com/75235150/167853860-3ec2a5f4-886f-4919-ab74-c4c6246a410f.jpg)
-
 ![3](https://user-images.githubusercontent.com/75235150/167853885-8eed421b-756c-4f7a-9bdf-165dfa0c734a.jpg)
 
 ![4](https://user-images.githubusercontent.com/75235150/167853905-b388f842-d127-43a8-95fc-64f3f786f3ee.jpg)
-
 ![5](https://user-images.githubusercontent.com/75235150/167853920-7eb8ce66-f42e-4e05-a614-6191169e0d4a.jpg)
-
 ![6](https://user-images.githubusercontent.com/75235150/167853936-ceb13fad-69d7-42d5-9b86-ea7b86ebab61.jpg)
 
 ![7](https://user-images.githubusercontent.com/75235150/167853952-f6c54f6b-7227-4eff-83c0-00a2f8c9f5ec.jpg)
-
 ![8](https://user-images.githubusercontent.com/75235150/167853969-2b52ecae-47d4-4f2a-ad5e-b71558c2d1d1.jpg)
-
 ![9](https://user-images.githubusercontent.com/75235150/167853981-9d720803-1963-4016-9b48-3e0354b7eed8.jpg)
 
 ![10](https://user-images.githubusercontent.com/75235150/167853993-39ecaf49-bb21-4661-b4ad-1170481bd42c.jpg)
-
 ![11](https://user-images.githubusercontent.com/75235150/167854028-dbb11833-5824-4a83-ac21-bdbcdcda96e9.jpg)
-
 ![12](https://user-images.githubusercontent.com/75235150/167854044-094ed8d9-36f1-4934-be68-9af9f6798e0d.jpg)
 
 ![13](https://user-images.githubusercontent.com/75235150/167854066-cac95872-06f3-4a80-9fda-658aab1d13a0.jpg)
-
 ![14](https://user-images.githubusercontent.com/75235150/167854084-09069ff7-8704-4625-ba37-d6ebbb5026aa.jpg)
-
 ![15](https://user-images.githubusercontent.com/75235150/167854092-600c620e-8c22-4067-9ca9-f92a18f9590f.jpg)
 
 
