@@ -4,7 +4,7 @@
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
 ## THEORY
-Explain the problem statement
+Dijkstra algorithm is a single-source shortest path algorithm. Here, single-source means that only one source is given, and we have to find the shortest path from the source to all the destination nodes.
 
 ## DESIGN STEPS
 
